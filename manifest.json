@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "无浪科技",
+  "version": "1.0.0",
+  "description": "一个简单的无浪科技浏览器插件",
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "点击我"
+  },
+
+  "permissions": []
+}
